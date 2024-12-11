@@ -1,5 +1,5 @@
 ## Hi there 👋
-Software Developer with 3 years of experiences
+Software Developer with 3 years of experience
 
 I mostly work with
 - JavaScript | SQL | HTML | CSS | React | NodeJs | MySQL | NoSQL | Firebase | Firestore
