@@ -1,3 +1,6 @@
+Taken from Mount Whitney
+![1669572379420](https://github.com/user-attachments/assets/40137204-7666-4f22-b890-84f6c3dafe83)
+
 ## Hi there 👋
 Software Developer with 3 years of experience
 
